@@ -36,6 +36,87 @@ profile:
       spécifiquement, la recherche de vulnérabilités dans du code source ou des
       binaires.
 
+summary:
+  title:
+    en: Professional Summary
+    fr: Résumé Professionnel
+  content:
+    - point:
+        en: >
+          Experienced in working with Git and Github, Infrastructure as Code,
+          integration, configuration and deployment automation
+        fr: >
+          Experimenté avec Git et Github, l'Infrastructure en tant que code
+          (IAC), l'automatisation d'intégration, de configuration et de
+          déploiement
+    - point:
+        en: >
+          Experienced in automating, configuring and deploying cloud instances
+          on AWS with tools such as Ansible and Terraform
+        fr: >
+          Experimenté dans l'automatisation, la configuration de déploiement
+          d'instances cloud AWS à l'aide d'outils tels que Ansible et Terraform
+    - point:
+        en: >
+          Experienced in managing and integrating Kubernetes solutions into
+          CI/CD pipelines
+        fr: >
+          Experimenté dans la gestion et l'intégration de solutions Kubernetes
+          dans des pipelines CI/CD
+    - point:
+        en: >
+          Experienced in virtualization and containerization ecosystems such as
+          KVM/Qemu, Libvirt, LXD, Docker
+        fr: >
+          Experimenté dans les ecosystèmes de virtualisation et de
+          conteneurisation comme KVM/Qemu, Libvirt, LXD, Docker
+    - point:
+        en: >
+          Experienced in programming in C, C++, various Assembly Languages, Bash
+          and POSIX Shell, Python, Lua and Ruby
+        fr: >
+          Experimenté en programmation C, C++, plusieurs languages assembleur,
+          Bash et POSIX Shell, Python, Lua et Ruby
+    - point:
+        en: >
+          Experienced in administrating Linux and BSD systems, networking,
+          common services (ssh, http, dns, dhcp, ldap, nfs, samba, etc...) and
+          firewall systems (NetFilter, FreeBSD PacketFilter)
+        fr: >
+          Experimenté dans l'administration de systèmes Linux et BSD, de réseaux,
+          des services classiques (ssh, http, dns, dhcp, ldap, nfs, samba, etc...)
+          et des systèmes de firewall (NetFilter, FreeBSD PacketFilter)
+    - point:
+        en: >
+          Extensive knowledge of Linux ecosystems and their internal components
+          (filesystems, build-systems, packaging-systems, init-systems, etc...).
+          Ability to rapidly learn and dive into new Linux or Unix-like systems
+          with ease
+        fr: >
+          Connaissances approfondies des ecosystèmes Linux et de leurs
+          composants internes (systèmes de fichiers, systèmes de build, systèmes
+          de paquets, systèmes d'init, etc...). Capacité d'apprendre et de
+          plonger rapidement dans de nouveaux systèmes Linux ou Unix
+    - point:
+        en: >
+          Experienced in analyzing and reverse-engineering source code and
+          binary code
+        fr: >
+          Expérimenté dans l'analyse et le reverse-engineering de code source et
+          de code binaire
+    - point:
+        en: >
+          Experienced in software bug hunting, exploitation and countermeasures
+        fr: >
+          Experimenté dans le bug hunting, l'exploitation et les contre-mesures
+    - point:
+        en: >
+          Familiar with systems hardening (NIDS, HIDS, SELinux, GRSec, etc...)
+          and experienced with Secure Network Architectures
+        fr: >
+          Familier avec le hardening de systèmes (NIDS, HIDS, SELinux, GRSec,
+          etc...) et experimenté avec les Architectures Réseau sécurisées
+
 education:
   - degree:
       en: M.Sc in Cyber Security
